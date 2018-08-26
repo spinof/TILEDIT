@@ -31,3 +31,6 @@ C2 plugins converted to C3 addons:
 https://github.com/spinof/TILEDIT/addons/rex_tmx_importer_v2.c3addon  
 https://github.com/spinof/TILEDIT/addons/rex_tmx_JSON_parser.c3addon  
 https://github.com/spinof/TILEDIT/addons/rex_tmx_XML_parser.c3addon  
+
+Support on Scirra forums:
+https://www.construct.net/forum/construct-3/your-construct-3-creations-9/137383
